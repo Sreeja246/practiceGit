@@ -1,2 +1,6 @@
 HELLO SREEJA!!!
+<<<<<<< HEAD
 Hai VARSHA?
+=======
+bye !
+>>>>>>> 7bb1918ad8c055ed72a8ce98e6767477820d02e8
